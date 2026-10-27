@@ -1,0 +1,226 @@
+Company: H2O AMERICA (CIK 766829)
+Accession: 0001628280-26-067295
+Results released: 2026-10-26
+Press release: https://www.sec.gov/Archives/edgar/data/766829/000162828026067295/exhibit991-3q2026.htm
+Filing: https://www.sec.gov/Archives/edgar/data/766829/000162828026067295/0001628280-26-067295-index.htm
+Saved: 2026-10-27T08:22:10+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991-3q2026.htm EX-99.1
+EXHIBIT 99.1
+H2O America Announces Third Quarter 2026 Financial Results
+•Third quarter 2026 reported diluted EPS of $0.99 and adjusted diluted EPS (non-GAAP)1 of $1.04, as compared to reported and adjusted diluted EPS in the third quarter of 2025 of $1.27 and $1.27, respectively
+•Year-to-date 2026 reported diluted EPS of $2.13 and adjusted diluted EPS (non-GAAP)1 of $2.30, as compared to reported and adjusted diluted EPS in the same period of 2025 of $2.48 and $2.53, respectively
+•2026 standalone adjusted diluted EPS guidance, which excludes the impacts of the Quadvest and pending Cibolo Valley acquisitions and the financings thereof, narrowed to $3.10-$3.161 (midpoint remains $3.13). 2026 adjusted diluted EPS guidance, including the impacts of the acquisitions and the financings thereof, initiated at $2.91-$2.971
+•No change to our 5-year and long-term diluted EPS growth and financial targets
+•$325.1 million2 of total company-funded infrastructure investments in 2026 through the third quarter out of a revised full year capital plan of approximately $465 million; no change to our total $2.7 billion2 capital plan over the 2026-30 period
+•Quadvest acquisition closed on October 1, 2026; active Quadvest connections up 14%, or 7,700, in 2026 while connections under contract and pending development have grown 13%, or 11,300 connections, in 2026
+•Declared $0.44 cash dividend per share of common stock
+SAN JOSE, Calif. — October 26, 2026 — H2O America (NASDAQ: HTO) today reported financial results for the third quarter of 2026.
+"Our third quarter results have our company in position to deliver on our full year 2026 guidance and we remain committed to our longer-term financial targets," said chair and chief executive officer, Andrew F. Walters. "The close of the Quadvest acquisition earlier this month marked a significant milestone in our strategy to build a stronger, more diversified utility portfolio. The addition of Quadvest's active connections plus the anticipated build out of its development pipeline along with our more than $750 million of capital investments that we have planned through 2030 across the combined Texas Water Company enterprise means that Texas will be an increasingly meaningful driver of H2O America's long-term ability to provide sustainable value for all of our customers, communities and capital partners. Beyond Texas, I am incredibly proud of the progress that our teams have made with respect to the general rate cases in Connecticut and Maine as we pursue recovery of the more than $180 million of combined investments that are not yet recognized in rates as well as the preparations being made by our California team with respect to the upcoming 2028-30 GRC filing. I am so very grateful to lead a team of such dedicated partners as we work to execute on our operational, regulatory and financial growth goals while providing our customers and the communities that we are honored to serve with the high-quality service they deserve."
+Third Quarter 2026 Operating Results
+Net income prepared in accordance with GAAP for the third quarter ended September 30, 2026 was $43.0 million, a 5% decrease compared to $45.1 million in the same quarter last year. GAAP diluted EPS for the quarter of $0.99 decreased versus $1.27 in the prior year quarter.
+Adjusting for costs associated with merger, acquisition and integration activities and non-utility real estate transactions, H2O America's adjusted net income (non-GAAP)1 in the third quarter of 2026 was $45.2 million, a decrease of 1% compared to $45.5 million in the prior year quarter. Adjusted diluted EPS (non-GAAP) for the quarter of $1.04 decreased versus $1.27 in the prior year quarter.
+For both GAAP and adjusted results, while our net income was down modestly during the 2026 period, there was a more profound impact on EPS from the higher share count as a result of leveraging our at-the-market (ATM) program throughout 2025 and our common stock issuance in early March of 2026. A full reconciliation of GAAP net income to adjusted net income for the quarter ended September 30, 2026 is included in the tables at the end of this news release.
+Operating revenue for the third quarter was $250.2 million, compared to $240.6 million for the same quarter last year, a 4% increase. The increase was driven primarily by rate increases of $16.2 million, nearly half of which relates to higher pass-through water costs, across all of our states but primarily in California and Connecticut. This was partially offset by lower customer consumption of $4.1 million and a decrease of $2.6 million due to regulatory mechanism adjustments.
+Operating expenses for the third quarter were $189.7 million, up 8% compared to $175.9 million for the same quarter last year. This change in operating expenses primarily reflects:
+1
+•An increase in water production expenses of $5.0 million compared to the same quarter last year primarily attributable to increases in average per unit costs for purchased water and groundwater extraction, partially offset by lower usage.
+•An increase in depreciation and amortization expense of $3.7 million associated with utility plant additions placed in service compared to the same quarter last year.
+•An increase in merger and acquisition costs of $3.1 million related to the acquisition and integration of Quadvest.
+•An increase in all other operating expenses of $2.0 million compared to the same quarter last year primarily attributable to a net increase in general and administrative expenses driven by higher outsourced services costs.
+The effective consolidated income tax rates for the third quarter of each of 2026 and 2025 was 11%.
+Year-to-Date Operating Results
+Net income prepared in accordance with GAAP for the nine months ended September 30, 2026 was $88.6 million, a 3% increase compared to $86.4 million in the same period of 2025. GAAP diluted EPS for the nine months of $2.13 decreased versus $2.48 in the same period last year.
+H2O America's adjusted net income (non-GAAP) for the nine months ended September 30, 2026 was $95.3 million, an increase of 8% compared to $88.4 million in the same period last year. Adjusted diluted EPS (non-GAAP) for the nine months ended September 30, 2026 of $2.30 decreased versus $2.53 in the same period last year.
+For both GAAP and adjusted results, while our net income grew during the 2026 period, our EPS declined as the increase in net income was more than offset by the higher share count as a result of leveraging our ATM program throughout 2025 and our common stock issuance in early March of 2026. A full reconciliation of GAAP net income to adjusted net income for the nine months ended September 30, 2026 is included in the tables at the end of this news release.
+Operating revenue for the first nine months of 2026 was $644.0 million compared to $606.4 million for the same period last year, a 6% increase. The increase was driven primarily by rate increases, including pass-through water costs, of $42.7 million across all of our states, and $1.1 million from customer growth. This was partially offset by a decrease of $4.3 million due to regulatory mechanism adjustments and lower customer consumption of $2.0 million.
+Operating expenses for the first nine months of 2026 were $503.3 million, up 9% compared to $462.0 million for the same period last year. This change in operating expenses primarily reflects:
+•An increase in water production expenses of $17.1 million compared to the same period last year primarily attributable to increases in average per unit costs for purchased water and groundwater extraction, increases in water production balancing and memorandum accounts, primarily relating to the Full Cost Balancing Account ("FCBA"), partially offset by decreases in costs as a result of increased availability of surface water.
+•An increase in depreciation and amortization expense of $11.1 million associated with utility plant additions placed in service compared to the same period last year.
+•An increase in merger and acquisition costs of $7.1 million related to the acquisition and integration of Quadvest and other acquisition-related activities.
+•An increase in all other operating expenses of $6.0 million compared to the same period last year primarily attributable to a net increase in general and administrative expenses driven by higher outsourced services.costs.
+The effective consolidated income tax rates for the nine months ended September 30, 2026 and 2025 were 12% and 14%, respectively. The lower effective tax rate for the 2026 period was primarily due to higher flow through tax benefits.
+Capital Expenditures
+Through September 30, 2026, H2O America has invested $325.1 million2 in infrastructure. We are adjusting our full year 2026 company-funded capital investment plan to approximately $465 million from $483 million due primarily to increased levels of developer-funded capital at our Texas subsidiary partially offset by the inclusion of planned Quadvest capex following the October 1 close of the acquisition. We continue to plan to invest a total of $2.7 billion2 over the 2026-30 period (including the impacts of Quadvest and Cibolo Valley) to build and maintain our water and wastewater operations, subject to regulatory approvals and availability of funding.
+2
+Quadvest Acquisition Update
+On October 1, 2026, the Company completed the acquisition of substantially all assets of Quadvest. Total cash consideration transferred upon close was $542.7 million. The acquisition marks an important milestone in the Company's Texas growth strategy by expanding the Company's regulated and wholesale water and wastewater operations throughout the greater Houston metropolitan area, which enhances scale, supports sustainable customer growth, improves operational effectiveness, and provides a platform for continued geographic expansion within the state.
+Quadvest continues to achieve its anticipated customer growth. Total active connections grew 14%, or 7,700 connections, during the first nine months of 2026 after growing 16%, or 7,400 connections, in 2025. This brings Quadvest's total active connections to 62,200 as of September 30, 2026. In addition, despite converting 7,700 connections to active during the first nine months of 2026, the number of connections under contract and pending development at September 30, 2026 grew by 11,300, to more than 98,000, since December 31, 2025. As previously communicated, we expect the addition of Quadvest to drive Texas from 8% of our consolidated customer base at year-end 2025 to 26% by 2029.
+2026 and Long-Term EPS Guidance
+The company is narrowing standalone 2026 adjusted diluted EPS guidance to $3.10-$3.16, preserving the $3.13 midpoint of the original $3.08-$3.181 range.
+Standalone 2026 adjusted diluted EPS guidance excludes the impacts of the Quadvest and pending Cibolo Valley acquisitions and the financings thereof, which will be initially dilutive to EPS prior to our ability to implement new rates reflecting the ratemaking rate bases of the acquired assets resulting from a consolidated Texas general rate case that we expect to file during the first half of 2027.
+With the close of the Quadvest acquisition on October 1, we are providing 2026 adjusted diluted EPS guidance of $2.91-$2.97, which incorporates the anticipated impacts of Quadvest and the pending Cibolo Valley acquisitions, including the financings thereof.
+We also affirm our non-linear, long-term adjusted diluted EPS CAGR target of 6-8%, anchored off of 2025's adjusted diluted EPS of $2.99. The long-term 6-8% CAGR target reflects a long-term, sustainable organic growth rate that is supported by elevated capital investment needs for decades to come and does not factor in any potential M&A opportunities beyond Quadvest and Cibolo Valley.
+Further, we continue to expect to deliver a non-linear adjusted diluted EPS CAGR at or above the top end of the 6-8% range over the 2026-30 period.
+Our guidance is subject to risks and uncertainties, including, without limitation, those factors outlined in the Forward-Looking Statements of this release and the Risk Factors section of the company’s annual and quarterly reports filed with the Securities and Exchange Commission.
+Rate Activity and Regulatory Highlights
+California
+On April 10, 2026, San Jose Water Company (SJWC) filed with the California Public Utilities Commission (CPUC) for cost recovery of its planned PFAS compliance program. Specifically, SJWC seeks authorization to design and construct an ion exchange PFAS remediation system at its Williams Station as well as to track the associated capital and operation and maintenance costs for recovery. SJWC estimates the total capital cost of the project to be approximately $176 million. Based on the ALJ's schedule in the docket, a proposed decision is expected during the second quarter of 2027. If approved, SJWC would adjust rates via annual rate base filing offsets.
+On September 29, 2026, Governor Newsom signed Senate Bill 1153, which strengthens water utilities' wildfire resilience by requiring, beginning January 1, 2028, all urban retail water suppliers serving 3,300 or more persons and serving a high or very high fire hazard severity zone to include incident-specific response procedures for wildfires as part of their disaster preparedness plans. SB 1153 also clarifies public water systems' wildfire liability limitations.
+Connecticut
+On May 11, 2026, Connecticut Water Company (CWC) filed a general rate case application with the Public Utilities Regulatory Authority (PURA) requesting a $28.8 million increase in annual revenues for the recovery of the approximately $145 million of infrastructure investments made between its last rate case and the end of 2026 as that investment is not reflected in current rates. The test year is the 12-month period ending December 31, 2025, for new rates to become effective February 2027. Evidentiary hearings concluded earlier this month and a proposed final decision is expected in mid-December.
+Maine
+3
+On April 13, 2026, Maine Water Company (MWC) filed its first consolidated general rate case with the Maine Public Utilities Commission (MPUC) requesting a $9.5 million increase in annual revenues for the recovery of an anticipated $36 million of infrastructure investments not reflected in current rates using a test year ending December 31, 2025. New rates are expected to go into effect by the second quarter of 2027.
+Texas
+On August 17, 2026, the Public Utility Commission of Texas (PUCT) issued an order in Texas Water Company's (TWC) Sale-Transfer-Merger (STM) application that allows for the acquisition of Quadvest, L.P.'s assets. As discussed earlier, the Company completed the acquisition of substantially all assets of Quadvest on October 1, 2026.
+On September 16, 2026, the PUCT issued an order in TWC's STM application that allows for the acquisition of the Cibolo Valley wastewater treatment plant and associated collection systems, which serve more than 1,500 wastewater connections within TWC's existing water service area, to close. We expect to close the transaction on November 2, 2026.
+On October 1, 2026, the PUCT adopted the administrative law judge (ALJ) proposal for decision in our system improvement charge (SIC) application following the completion of the Staff's number run. The order, which was effective immediately, results in a $0.2 million decrease in annual revenues as compared to the $5.1 million increase sought for completed water and wastewater projects in TWC's October 6, 2025 application.
+Dividend
+On October 23, 2026, the Board of Directors of H2O America declared a quarterly cash dividend on common stock of $0.44 per share, payable on December 1, 2026, to shareholders of record at the close of business on November 9, 2026. The 2026 annualized dividend is expected to be $1.76 per share compared with $1.68 per share in 2025.
+Dividends have been paid on H2O America’s and its predecessor’s common stock for more than 80 consecutive years, and the annual dividend amount has increased in each of the past 58 years, placing H2O America in an exclusive group of companies.
+Financial Results Call Information
+Andrew F. Walters, chair and chief executive officer, Ann P. Kelly, chief financial officer and treasurer, and Bruce A. Hauk, president and chief operating officer, will review results for the third quarter of 2026 along with discussing other recent developments in a live webcast presentation at 7 a.m. Pacific Time, or 10 a.m. Eastern Time, on Tuesday, October 27, 2026.
+Interested parties may access the webcast and related presentation materials at the website www.h2o-america.com. An archive of the webcast will be available until January 26, 2027.
+Non-GAAP Financial Measures
+H2O America's net income and diluted EPS are prepared in accordance with GAAP and represent the earnings as reported to the Securities and Exchange Commission. Adjusted net income and Adjusted diluted EPS are non-GAAP financial measures representing GAAP earnings adjusted to exclude the effects of non-utility real estate transactions and costs associated with mergers, acquisitions and integration activities, if any. These non-GAAP financial measures are provided as additional information for investors to evaluate the performance of H2O America's business activities excluding these items. Management also believes these non-GAAP financial measures help investors and analysts better understand our actual results compared to our guidance on a non-GAAP basis. H2O America uses adjusted net income and/or adjusted diluted EPS as the primary performance measurements when communicating with analysts and investors regarding our outlook and results. Adjusted net income and Adjusted diluted EPS are also used internally to measure performance. However, these non-GAAP financial measures may be different from non-GAAP financial measures used by other companies, even when the same or similarly titled terms are used to identify such measures, limiting their usefulness for comparative purposes. Further, these non-GAAP financial measures should be considered as a supplement to the financial information prepared on a GAAP basis rather than an alternative to the respective GAAP financial measures.
+About H2O America
+H2O America is among the largest investor-owned pure-play water and wastewater utilities in the United States, providing life-sustaining and high-quality water service to over 1.7 million people. H2O America’s locally led and operated water utilities – San Jose Water Company in California, The Connecticut Water Company in Connecticut, The Maine Water Company in Maine, and SJWTX, Inc. (dba The Texas Water Company) in Texas, including Quadvest’s operations – possess the financial strength, operational expertise, and technological innovation to safeguard the environment, deliver outstanding service to customers, and provide opportunities to employees. H2O America remains focused on investing in its operations, remaining actively engaged in its local communities, and delivering continued sustainable value to its stockholders. For more information about H2O America, please visit www.h2o-america.com.
+4
+Forward-Looking Statements
+This release contains forward-looking statements within the meaning of the federal securities laws relating to future events and future results of H2O America and its subsidiaries that are based on current expectations, estimates, forecasts, and projections about H2O America and its subsidiaries and the industries in which H2O America and its subsidiaries operate and the beliefs and assumptions of the management of H2O America. Some of these forward-looking statements can be identified by the use of forward-looking words such as “believes,” “expects,” “estimates,” “anticipates,” “intends,” “seeks,” “plans,” “projects,” “may,” “should,” “will,” “approximately,” “strategy,” or the negative of those words or other comparable terminology. These forward-looking statements are only predictions and are subject to risks, uncertainties, and assumptions that are difficult to predict. Therefore, actual results may differ materially and adversely from those expressed in any forward-looking statements.
+The accuracy of such statements is subject to a number of risks, uncertainties and assumptions including, but not limited to, the following factors: (1) the risks associated with the Quadvest and Cibolo Valley transactions, including, the risk of the proposed Cibolo Valley transaction not closing on the anticipated timeline, or at all, and the ability to successfully integrate Quadvest’s and Cibolo Valley's operations and realize the projected financial and other benefits of the proposed transactions; (2) the effect of water, utility, environmental and other governmental policies and regulations, including regulatory actions concerning rates, authorized return on equity, authorized capital structures, capital expenditures, PFAS and other decisions; (3) changes in demand for water and other services; (4) unanticipated weather conditions and changes in seasonality including those affecting water supply and customer usage; (5) the effect of the impact of climate change; (6) unexpected costs, charges or expenses; (7) our ability to successfully evaluate investments in new business and growth initiatives; (8) contamination of our water supplies and damage or failure of our water equipment and infrastructure; (9) the risk of work stoppages, strikes and other labor-related actions; (10) catastrophic events such as fires, earthquakes, explosions, floods, ice storms, tornadoes, hurricanes, terrorist acts, physical attacks, cyber-attacks, epidemic, or similar occurrences; (11) changes in general economic, political, legislative, business and financial market conditions; (12) the ability to obtain financing on favorable terms, which can be affected by various factors, including credit ratings, changes in interest rates, compliance with regulatory requirements, compliance with the terms and conditions of our outstanding indebtedness and general market and economic conditions; and (13) legislative and general market and economic developments. The risks, uncertainties and other factors may cause the actual results, performance or achievements of H2O America to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements.
+Results for a quarter are not indicative of results for a full year due to seasonality and other factors. In addition, actual results, performance or achievements are subject to other risks and uncertainties that relate more broadly to our overall business, including those more fully described in our filings with the SEC, including our most recent reports on Form 10-K, Form 10-Q and Form 8-K. Forward-looking statements are not guarantees of future performance, and speak only as of the date made, and H2O America undertakes no obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, or otherwise, except as required by law.
+H2O America Contacts:
+Ann P. Kelly
+Chief Financial Officer and Treasurer
+408.385.4752
+Ann.Kelly@H2O-America.com
+Jonathan Reeder
+Senior Director of Treasury and Investor Relations
+475.414.1034
+Jonathan.Reeder@H2O-America.com
+______________________________
+1 Adjusted net income and adjusted diluted EPS are non-GAAP financial measures as defined below. See the tables below for reconciliations to the most comparable GAAP measures. Information reconciling adjusted diluted EPS guidance to the comparable GAAP financial measure is unavailable to the company without unreasonable effort, as discussed below.
+2 Includes both utility plant additions and capitalizable costs associated with cloud-computing arrangements.
+5
+H2O America
+Condensed Consolidated Statements of Income
+(Unaudited)
+(in thousands, except share and per share data)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Operating revenue | $ | 250,229 | 240,550 | 643,996 | 606,404
+Operating expense:
+Production expenses:
+Purchased water | 50,360 | 38,163 | 116,953 | 101,537
+Power | 4,351 | 8,175 | 12,474 | 15,509
+Groundwater extraction charges | 36,020 | 39,608 | 87,848 | 84,253
+Other production expenses | 12,575 | 12,374 | 37,936 | 36,857
+Total production expenses | 103,306 | 98,320 | 255,211 | 238,156
+Administrative and general | 35,441 | 31,306 | 98,874 | 87,861
+Maintenance | 8,347 | 8,016 | 24,178 | 22,985
+Property taxes and other non-income taxes | 10,168 | 9,516 | 28,146 | 27,217
+Depreciation and amortization | 32,478 | 28,765 | 96,918 | 85,797
+Total operating expense | 189,740 | 175,923 | 503,327 | 462,016
+Operating income | 60,489 | 64,627 | 140,669 | 144,388
+Other (expense) income:
+Interest on long-term debt and other interest expense | (18,161) | (17,898) | (54,951) | (54,292)
+Pension non-service credit | 1,975 | 1,587 | 5,906 | 4,810
+Other, net | 3,943 | 2,607 | 9,595 | 5,384
+Income before income taxes | 48,246 | 50,923 | 101,219 | 100,290
+Provision for income taxes | 5,202 | 5,791 | 12,573 | 13,932
+Net income | 43,044 | 45,132 | 88,646 | 86,358
+Comprehensive income | $ | 43,044 | 45,132 | 88,646 | 86,358
+Earnings per share
+—Basic | $ | 1.03 | 1.27 | 2.18 | 2.49
+—Diluted | $ | 0.99 | 1.27 | 2.13 | 2.48
+Dividends per share | $ | 0.44 | 0.42 | 1.32 | 1.26
+Weighted average shares outstanding
+—Basic | 41,959,732 | 35,543,224 | 40,594,395 | 34,706,183
+—Diluted | 43,478,365 | 35,643,826 | 41,644,367 | 34,797,374
+6
+H2O America
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(in thousands, except share and per share data)
+September 30, 2026 | December 31, 2025
+Assets
+Utility plant:
+Land | $ | 44,563 | 44,600
+Depreciable plant and equipment | 4,963,174 | 4,688,644
+Construction work in progress | 347,660 | 269,272
+Intangible assets | 51,683 | 51,683
+Total utility plant | 5,407,080 | 5,054,199
+Less: accumulated depreciation and amortization | 1,190,907 | 1,120,232
+Net utility plant | 4,216,173 | 3,933,967
+Nonutility properties | 2,239 | 1,683
+Less: accumulated depreciation | 106 | 103
+Net nonutility properties | 2,133 | 1,580
+Current assets:
+Cash and cash equivalents | 572,957 | 20,686
+Accounts receivable:
+Customers, net of allowances for credit losses of $980 and $722 on September 30, 2026 and December 31, 2025, respectively | 87,869 | 62,471
+Income tax | — | 2,720
+Other | 7,741 | 7,710
+Accrued unbilled revenue | 71,833 | 68,971
+Prepaid expenses | 15,977 | 11,634
+Current portion of regulatory assets | 14,621 | 8,315
+Other current assets | 7,138 | 8,086
+Total current assets | 778,136 | 190,593
+Other assets:
+Regulatory assets, less current portion | 254,732 | 246,547
+Investments | 20,373 | 19,711
+Postretirement benefit plans | 84,887 | 80,967
+Goodwill | 640,311 | 640,311
+Other | 55,379 | 35,890
+Total other assets | 1,055,682 | 1,023,426
+Total assets | $ | 6,052,124 | 5,149,566
+7
+H2O America
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(in thousands, except share and per share data)
+September 30, 2026 | December 31, 2025
+Capitalization and liabilities
+Capitalization:
+Stockholders’ equity:
+Common stock, $0.001 par value; authorized 70,000,000 shares; 48,318,991 issued and outstanding shares on September 30, 2026 and 36,118,242 on December 31, 2025 | $ | 48 | 36
+Additional paid-in capital | 1,582,745 | 958,188
+Retained earnings | 616,956 | 581,080
+Accumulated other comprehensive income | 1,467 | 1,467
+Total stockholders’ equity | 2,201,216 | 1,540,771
+Long-term debt, less current portion | 1,881,391 | 1,866,819
+Total capitalization | 4,082,607 | 3,407,590
+Current liabilities:
+Lines of credit | 200,275 | 86,834
+Current portion of long-term debt | 7,882 | 23,504
+Accrued groundwater extraction charges, purchased water and power | 44,660 | 29,321
+Accounts payable | 87,913 | 75,427
+Accrued interest | 23,331 | 18,241
+Accrued payroll | 14,632 | 19,109
+Current portion of regulatory liabilities | — | —
+Other current liabilities | 31,654 | 20,942
+Total current liabilities | 410,347 | 273,378
+Deferred income taxes | 332,866 | 307,893
+Advances for construction | 209,161 | 201,413
+Contributions in aid of construction | 354,547 | 342,697
+Postretirement benefit plans | 47,391 | 45,878
+Regulatory liabilities, less current portion | 583,599 | 546,797
+Other noncurrent liabilities | 31,606 | 23,920
+Total capitalization and liabilities | $ | 6,052,124 | 5,149,566
+8
+H2O America
+Reconciliation of Non-GAAP Financial Measures
+(Unaudited)
+(in thousands, except per share data)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Reported GAAP Net Income | $ | 43,044 | 45,132 | 88,646 | 86,358
+Adjustments:
+(Gain)/loss on sale of real estate investments1 | (1,152) | (273) | (1,324) | (273)
+Expense for merger, acquisition and integration activities1 | 3,774 | 700 | 10,185 | 3,048
+Non-recurring tax adjustment due to merger, acquisition and integration related activities2 | 264 | — | 264 | —
+Tax effect of above adjustments3 | (733) | (109) | (2,479) | (766)
+Adjusted Net Income (non-GAAP) | $ | 45,197 | 45,450 | $ | 95,292 | 88,367
+Reported GAAP Diluted Earnings Per Share | $ | 0.99 | 1.27 | $ | 2.13 | $ | 2.48
+Adjustments:
+(Gain)/loss on sale of real estate investments, net of tax | (0.02) | (0.01) | (0.02) | (0.01)
+Expense for merger, acquisition and integration activities, net of tax | 0.06 | 0.01 | 0.18 | 0.06
+Non-recurring tax adjustment due to merger, acquisition and integration related activities | 0.01 | — | 0.01 | —
+Adjusted Diluted Earnings Per Share (non-GAAP) | $ | 1.04 | 1.27 | 2.30 | 2.53
+1 Included in the "Administrative and general" and “Other, net” lines on the consolidated statements of comprehensive income
+2 Included in the “provision for income taxes” line on the condensed consolidated statements of comprehensive income
+3 The tax effect on all adjustments is calculated at the applicable statutory rate.
+9

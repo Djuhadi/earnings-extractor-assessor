@@ -287,5 +287,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/355811/000035581126000060/exhibit99109302026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/355811/000035581126000060/0000355811-26-000060-index.htm",
     "saved_at": "2026-10-27T00:55:26+08:00"
+  },
+  {
+    "cik": "1605301",
+    "company": "CB Financial Services, Inc.",
+    "accession": "0001605301-26-000042",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 5.327,
+        "unit": "USD millions",
+        "quote": "Net Income (Loss) (GAAP) | $ | 5,327"
+      },
+      "diluted_eps": {
+        "value": 0.99,
+        "unit": "USD per share",
+        "quote": "Earnings (Loss) per Common Share - Diluted (GAAP) | $ | 0.99"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "Net interest income rose for six consecutive quarters and net interest margin improved.",
+        "quote": "Net interest and dividend income increased for six consecutive quarters to $15.0 million for the three months ended September 30, 2026 compared to $14.5 million for the three months ended June 30, 2026, as net interest margin (NIM) improved to 3.75%"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Management says it kept expenses disciplined.",
+        "quote": "We also maintained disciplined expense management, keeping our cost structure aligned with the current operating environment."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects loan payoff activity to moderate in the fourth quarter and is focused on loan and deposit momentum.",
+        "quote": "we expect payoff activity to moderate in the fourth quarter"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the results solid, cites improved margin and earnings, and expects the deposit programme to build."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1605301-0001605301-26-000042.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/a20260930ex9913rdqtrearnin.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/0001605301-26-000042-index.htm",
+    "saved_at": "2026-10-27T08:22:10+08:00"
+  },
+  {
+    "cik": "766829",
+    "company": "H2O AMERICA",
+    "accession": "0001628280-26-067295",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 250.229,
+        "unit": "USD millions",
+        "quote": "Operating revenue | $ | 250,229"
+      },
+      "operating_income": {
+        "value": 60.489,
+        "unit": "USD millions",
+        "quote": "Operating income | 60,489"
+      },
+      "net_income": {
+        "value": 43.044,
+        "unit": "USD millions",
+        "quote": "Net income | 43,044"
+      },
+      "diluted_eps": {
+        "value": 0.99,
+        "unit": "USD per share",
+        "quote": "—Diluted | $ | 0.99"
+      }
+    },
+    "guidance": {
+      "text": "Standalone 2026 adjusted diluted EPS guidance is narrowed to $3.10-$3.16, with the $3.13 midpoint kept.",
+      "quote": "The company is narrowing standalone 2026 adjusted diluted EPS guidance to $3.10-$3.16, preserving the $3.13 midpoint"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says the quarter puts the company in position to meet its 2026 guidance.",
+        "quote": "Our third quarter results have our company in position to deliver on our full year 2026 guidance and we remain committed to our longer-term financial targets"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income was down modestly, but a higher share count weighed more on earnings per share.",
+        "quote": "while our net income was down modestly during the 2026 period, there was a more profound impact on EPS from the higher share count"
+      },
+      {
+        "id": "M3",
+        "topic": "revenue",
+        "claim": "Operating revenue rose 4%, driven mainly by rate increases.",
+        "quote": "Operating revenue for the third quarter was $250.2 million, compared to $240.6 million for the same quarter last year, a 4% increase."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO is confident on guidance and targets, while the release notes lower net income and EPS than a year ago."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/766829-0001628280-26-067295.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/766829/000162828026067295/exhibit991-3q2026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/766829/000162828026067295/0001628280-26-067295-index.htm",
+    "saved_at": "2026-10-27T08:22:10+08:00"
   }
 ]
