@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-01T08:04:10+08:00",
+  "fetched_at": "2026-11-01T08:25:18+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,187 +9,193 @@
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 28,
-  "answered": 28,
+  "requests": 29,
+  "answered": 29,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 125 ms"
+      "detail": "HTTP 200, 60 KB in 498 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=100",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 103 ms"
+      "detail": "HTTP 200, 59 KB in 340 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 268 ms"
+      "detail": "HTTP 200, 60 KB in 242 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=300",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 129 ms"
+      "detail": "HTTP 200, 60 KB in 371 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 281 ms"
+      "detail": "HTTP 200, 60 KB in 249 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 159 ms"
+      "detail": "HTTP 200, 60 KB in 619 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 99 ms"
+      "detail": "HTTP 200, 61 KB in 363 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=700",
       "ok": true,
-      "detail": "HTTP 200, 62 KB in 125 ms"
+      "detail": "HTTP 200, 62 KB in 389 ms"
     },
     {
       "name": "Earnings radar, page 9",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-31&from=800",
       "ok": true,
-      "detail": "HTTP 200, 39 KB in 130 ms"
+      "detail": "HTTP 200, 39 KB in 322 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 56 ms"
+      "detail": "HTTP 200, 148 KB in 31 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 45 ms"
+      "detail": "HTTP 200, 1 KB in 29 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 54 ms"
+      "detail": "HTTP 200, 361 KB in 31 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 44 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 55 ms"
+      "detail": "HTTP 200, 1 KB in 21 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 192 ms"
+      "detail": "HTTP 200, 657 KB in 47 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 35 ms"
+      "detail": "HTTP 200, 153 KB in 46 ms"
     },
     {
-      "name": "GEORGIA BANKING CO INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926119411/index.json",
+      "name": "GE Vernova Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 327 ms"
+      "detail": "HTTP 200, 1 KB in 21 ms"
     },
     {
-      "name": "GEORGIA BANKING CO INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926119411/tm2628327d4_ex99-1.htm",
+      "name": "GE Vernova Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/0001996810-26-000162-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,084 KB in 85 ms"
+      "detail": "HTTP 200, 10 KB in 26 ms"
     },
     {
-      "name": "ASBURY AUTOMOTIVE GROUP INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1144980/000114498026000109/index.json",
+      "name": "GE Vernova Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000162/gevpressrelease3q26.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 68 ms"
+      "detail": "HTTP 200, 642 KB in 73 ms"
     },
     {
-      "name": "ASBURY AUTOMOTIVE GROUP INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1144980/000114498026000109/a2026q3ex991.htm",
+      "name": "Artiva Biotherapeutics, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1817241/000119312526432806/index.json",
       "ok": true,
-      "detail": "HTTP 200, 892 KB in 60 ms"
+      "detail": "HTTP 200, 1 KB in 33 ms"
+    },
+    {
+      "name": "Artiva Biotherapeutics, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1817241/000119312526432806/d102135dex991.htm",
+      "ok": true,
+      "detail": "HTTP 200, 17 KB in 27 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 418 ms"
+      "detail": "HTTP 200, 3,173 KB in 100 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 173 ms"
+      "detail": "HTTP 200, 4,447 KB in 111 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 240 ms"
+      "detail": "HTTP 200, 2,737 KB in 109 ms"
     },
     {
-      "name": "GEORGIA BANKING CO INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001070965.json",
+      "name": "GE Vernova Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001996810.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 372 ms"
+      "detail": "HTTP 200, 762 KB in 350 ms"
     },
     {
-      "name": "ASBURY AUTOMOTIVE GROUP INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001144980.json",
+      "name": "Artiva Biotherapeutics, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001817241.json",
       "ok": true,
-      "detail": "HTTP 200, 3,139 KB in 404 ms"
+      "detail": "HTTP 200, 345 KB in 190 ms"
     },
     {
       "name": "Chubb Ltd company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000896159.json",
       "ok": true,
-      "detail": "HTTP 200, 5,351 KB in 412 ms"
+      "detail": "HTTP 200, 5,351 KB in 377 ms"
     },
     {
       "name": "GENTEX CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000355811.json",
       "ok": true,
-      "detail": "HTTP 200, 2,997 KB in 335 ms"
+      "detail": "HTTP 200, 2,997 KB in 653 ms"
     },
     {
       "name": "CB Financial Services, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001605301.json",
       "ok": true,
-      "detail": "HTTP 200, 3,792 KB in 562 ms"
+      "detail": "HTTP 200, 3,792 KB in 108 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000355811.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000896159.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001070965.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001144980.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001605301.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001817241.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001996810.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
@@ -204,11 +210,12 @@
     "efts.sec.gov_search-index_from800.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1070965_000110465926119411_index.json",
-    "www.sec.gov_Archives_edgar_data_1070965_000110465926119411_tm2628327d4_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1144980_000114498026000109_a2026q3ex991.htm",
-    "www.sec.gov_Archives_edgar_data_1144980_000114498026000109_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
+    "www.sec.gov_Archives_edgar_data_1817241_000119312526432806_d102135dex991.htm",
+    "www.sec.gov_Archives_edgar_data_1817241_000119312526432806_index.json",
+    "www.sec.gov_Archives_edgar_data_1996810_000199681026000162_0001996810-26-000162-index.htm",
+    "www.sec.gov_Archives_edgar_data_1996810_000199681026000162_gevpressrelease3q26.htm",
+    "www.sec.gov_Archives_edgar_data_1996810_000199681026000162_index.json"
   ]
 }
