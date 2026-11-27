@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T11:36:41+08:00",
+  "fetched_at": "2026-11-27T11:46:57+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -9,171 +9,165 @@
     "note": "The last radar run was more than 14 days ago, so the radar looked back 14 days only."
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 26,
-  "answered": 26,
+  "requests": 25,
+  "answered": 25,
   "sources": [
     {
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 101 ms"
+      "detail": "HTTP 200, 60 KB in 232 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 33 ms"
+      "detail": "HTTP 200, 60 KB in 197 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=200",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 38 ms"
+      "detail": "HTTP 200, 60 KB in 144 ms"
     },
     {
       "name": "Earnings radar, page 4",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=300",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 34 ms"
+      "detail": "HTTP 200, 59 KB in 176 ms"
     },
     {
       "name": "Earnings radar, page 5",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=400",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 59 ms"
+      "detail": "HTTP 200, 60 KB in 149 ms"
     },
     {
       "name": "Earnings radar, page 6",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=500",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 55 ms"
+      "detail": "HTTP 200, 60 KB in 144 ms"
     },
     {
       "name": "Earnings radar, page 7",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=600",
       "ok": true,
-      "detail": "HTTP 200, 61 KB in 44 ms"
+      "detail": "HTTP 200, 61 KB in 172 ms"
     },
     {
       "name": "Earnings radar, page 8",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-12&enddt=2026-11-26&from=700",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 33 ms"
+      "detail": "HTTP 200, 10 KB in 145 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 170 ms"
+      "detail": "HTTP 200, 148 KB in 176 ms"
     },
     {
       "name": "Alphabet filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 250 ms"
+      "detail": "HTTP 200, 1 KB in 82 ms"
     },
     {
       "name": "Alphabet press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
       "ok": true,
-      "detail": "HTTP 200, 361 KB in 289 ms"
+      "detail": "HTTP 200, 361 KB in 205 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 40 ms"
+      "detail": "HTTP 200, 156 KB in 178 ms"
     },
     {
       "name": "Amazon filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 129 ms"
+      "detail": "HTTP 200, 1 KB in 56 ms"
     },
     {
       "name": "Amazon press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 657 KB in 154 ms"
+      "detail": "HTTP 200, 657 KB in 79 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 45 ms"
+      "detail": "HTTP 200, 154 KB in 187 ms"
     },
     {
-      "name": "Vistagen Therapeutics, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026073824/index.json",
+      "name": "22nd Century Group, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1347858/000149315226051925/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 298 ms"
+      "detail": "HTTP 200, 1 KB in 100 ms"
     },
     {
-      "name": "Vistagen Therapeutics, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1411685/000162828026073824/vtgn-20261112xex991.htm",
+      "name": "22nd Century Group, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1347858/000149315226051925/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 92 KB in 454 ms"
+      "detail": "HTTP 200, 168 KB in 190 ms"
     },
     {
-      "name": "Suncrete, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2094433/000119312526460736/index.json",
+      "name": "SPAR Group, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1004989/000143774926036671/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 330 ms"
+      "detail": "HTTP 200, 1 KB in 129 ms"
     },
     {
-      "name": "Suncrete, Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2094433/000119312526460736/0001193125-26-460736-index.htm",
+      "name": "SPAR Group, Inc. filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1004989/000143774926036671/0001437749-26-036671-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 8 KB in 446 ms"
+      "detail": "HTTP 200, 10 KB in 157 ms"
     },
     {
-      "name": "GALECTIN THERAPEUTICS INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126043989/index.json",
+      "name": "SPAR Group, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1004989/000143774926036671/ex_1044765.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 501 ms"
-    },
-    {
-      "name": "GALECTIN THERAPEUTICS INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1133416/000114036126043989/ef20085500_ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 93 KB in 721 ms"
+      "detail": "HTTP 200, 360 KB in 175 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,175 KB in 79 ms"
+      "detail": "HTTP 200, 3,175 KB in 290 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 85 ms"
+      "detail": "HTTP 200, 4,447 KB in 282 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 58 ms"
+      "detail": "HTTP 200, 2,745 KB in 244 ms"
     },
     {
-      "name": "Vistagen Therapeutics, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001411685.json",
+      "name": "22nd Century Group, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001347858.json",
       "ok": true,
-      "detail": "HTTP 200, 2,068 KB in 345 ms"
+      "detail": "HTTP 200, 2,902 KB in 619 ms"
     },
     {
-      "name": "GALECTIN THERAPEUTICS INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001133416.json",
+      "name": "SPAR Group, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001004989.json",
       "ok": true,
-      "detail": "HTTP 200, 1,667 KB in 215 ms"
+      "detail": "HTTP 200, 2,629 KB in 959 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001004989.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001133416.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001411685.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001347858.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
@@ -186,15 +180,14 @@
     "efts.sec.gov_search-index_from500.json",
     "efts.sec.gov_search-index_from600.json",
     "efts.sec.gov_search-index_from700.json",
+    "www.sec.gov_Archives_edgar_data_1004989_000143774926036671_0001437749-26-036671-index.htm",
+    "www.sec.gov_Archives_edgar_data_1004989_000143774926036671_ex_1044765.htm",
+    "www.sec.gov_Archives_edgar_data_1004989_000143774926036671_index.json",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_amzn-20260930xex991.htm",
     "www.sec.gov_Archives_edgar_data_1018724_000101872426000038_index.json",
-    "www.sec.gov_Archives_edgar_data_1133416_000114036126043989_ef20085500_ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1133416_000114036126043989_index.json",
-    "www.sec.gov_Archives_edgar_data_1411685_000162828026073824_index.json",
-    "www.sec.gov_Archives_edgar_data_1411685_000162828026073824_vtgn-20261112xex991.htm",
+    "www.sec.gov_Archives_edgar_data_1347858_000149315226051925_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1347858_000149315226051925_index.json",
     "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_googexhibit991q32026.htm",
-    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json",
-    "www.sec.gov_Archives_edgar_data_2094433_000119312526460736_0001193125-26-460736-index.htm",
-    "www.sec.gov_Archives_edgar_data_2094433_000119312526460736_index.json"
+    "www.sec.gov_Archives_edgar_data_1652044_000165204426000080_index.json"
   ]
 }
